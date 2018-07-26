@@ -1,0 +1,11 @@
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\bin\Debug\TecladoTelefonico.exe
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\bin\Debug\TecladoTelefonico.pdb
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\bin\Debug\TecladoTelefonico.xml
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.vbprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.Form1.resources
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.Resources.resources
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.vbproj.GenerateResource.cache
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.exe
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.xml
+C:\Proyectos Visual Studio\TecladoTelefonico\TecladoTelefonico\obj\Debug\TecladoTelefonico.pdb
